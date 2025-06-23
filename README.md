@@ -1,7 +1,7 @@
 
 [![MasterHead](https://github.com/SharifaG/SharifaG/blob/main/banner.gif)]
 <img align="right" alt="Coding" width="400" src="https://github.com/SharifaG/SharifaG/blob/main/me.gif">
-<h1 align="center">Hi 👋, I'm Rahul A. Patel</h1>
+<h1 align="center">Hi 👋, I'm Sharifa A Galsulkar</h1>
 
 <h3 align="center">A passionate Data Engineer from India ,currently based in Toronto, Canada</h3>
 
